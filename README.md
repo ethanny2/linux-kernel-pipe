@@ -2,6 +2,11 @@
 [![Twitter Badge](https://img.shields.io/badge/chat-twitter-blue.svg)](https://twitter.com/ArrayLikeObj)
 [![GitHub license](https://img.shields.io/github/license/ethanny2/linux-kernel-pipe)](https://github.com/ethanny2/linux-kernel-pipe)
 
+
+<p align="center">
+  <img width="460" height="300" src="https://imgs.developpaper.com/imgs/3356986113-5c7f9739ae102_articlex.png">
+</p>
+
 ## Requirements
 A Linux operating system and GNU Make to compile and build the C executables.
 
